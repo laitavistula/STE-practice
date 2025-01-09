@@ -22,10 +22,10 @@ With machine translation (MT) enabling more content to be translated at lower co
 
 ## Jevon's Paradox
 
-Watt's steam engine - an innovation that changed coal
+* Watt's steam engine - an innovation that changed coal
 Let’s turn our clocks back 160 years. In the 19th century England James Watt introduced a more efficient steam engine. Coal magnates feared their business would contract because buyers needed less fuel. But the opposite happened. With a Watt, it took less coal to run any factory or a transport vehicle, and one could do more with less: manufacture more goods cost-efficiently, travel further, and heat longer. The demand for coal skyrocketed, it triggered the Industrial Revolution and made coal mining a bigger business than ever. Later, an English economist William Jevons observed this economic mechanism and named it after himself. 
 
-Jevon’s Paradox occurs when the demand increases at twice the speed of cost reduction. Applying this to translation, if AI reduces costs by 30%, demand would need to increase by 60% to trigger similar growth. Six years ago, Konstantin Savenkov predicted that MT would spark unparalleled growth in global translation volume following the model discovered by Jevons. Yet, this revolution remains unrealized.
+* Jevon’s Paradox occurs when the demand increases at twice the speed of cost reduction. Applying this to translation, if AI reduces costs by 30%, demand would need to increase by 60% to trigger similar growth. Six years ago, Konstantin Savenkov predicted that MT would spark unparalleled growth in global translation volume following the model discovered by Jevons. Yet, this revolution remains unrealized.
 
 ## The World Needs More Translation
 
