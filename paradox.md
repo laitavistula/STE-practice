@@ -1,8 +1,9 @@
 # Decline in Translation Industry and Jevon's Paradox  
 **Konstantin Dranch**  
 Language Industry Researcher | Founder @ Custom.MT  
+Source: [LinkedIn](https://www.linkedin.com/pulse/declining-translation-jevons-paradox-konstantin-dranch-oohye/)
 
-December 16, 2024
+*December 16, 2024*
 
 Automated translation was expected to increase productivity and create more demand for services. However, there is a downturn. This year, many translation companies have reported lower revenues, and some in-house localization teams have been downsized or eliminated. Below are some public examples from Language Service Providers (LSPs) showing this trend.
 
